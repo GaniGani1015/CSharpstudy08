@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\bin\Debug\net6.0\클래스와 메소드.exe
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\bin\Debug\net6.0\클래스와 메소드.deps.json
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\bin\Debug\net6.0\클래스와 메소드.runtimeconfig.json
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\bin\Debug\net6.0\클래스와 메소드.dll
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\bin\Debug\net6.0\클래스와 메소드.pdb
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.AssemblyInfo.cs
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.sourcelink.json
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.dll
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\refint\클래스와 메소드.dll
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.pdb
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\클래스와 메소드.genruntimeconfig.cache
+C:\Users\USER\Documents\GitHub\CSharpstudy08\클래스와 메소드\obj\Debug\net6.0\ref\클래스와 메소드.dll
