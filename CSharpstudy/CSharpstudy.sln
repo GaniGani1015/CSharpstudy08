@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpstudy", "CSharpstudy.csproj", "{089E4779-23AF-492A-822D-76970810AD05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클래스와 메소드", "..\클래스와 메소드\클래스와 메소드.csproj", "{D7B3E37F-0B09-428A-BF7F-336FEC465B72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "클래스와 메소드", "..\클래스와 메소드\클래스와 메소드.csproj", "{D7B3E37F-0B09-428A-BF7F-336FEC465B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드흐름제어", "..\코드흐름제어\코드흐름제어.csproj", "{D619E649-9A80-4BC5-B56C-994B05684EFE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D7B3E37F-0B09-428A-BF7F-336FEC465B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7B3E37F-0B09-428A-BF7F-336FEC465B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7B3E37F-0B09-428A-BF7F-336FEC465B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D619E649-9A80-4BC5-B56C-994B05684EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D619E649-9A80-4BC5-B56C-994B05684EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D619E649-9A80-4BC5-B56C-994B05684EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D619E649-9A80-4BC5-B56C-994B05684EFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
